@@ -1,0 +1,17 @@
+pl\edu\atar\domain\mapper\MovieListMapper.class
+pl\edu\atar\domain\dto\MovieDetailsDto$Builder.class
+pl\edu\atar\domain\repository\MovieRepository.class
+pl\edu\atar\domain\mapper\Converter.class
+pl\edu\atar\service\serviceImpl\MovieServiceImpl.class
+pl\edu\atar\domain\entity\Movie.class
+pl\edu\atar\domain\entity\Movie$Builder.class
+pl\edu\atar\domain\dto\CreateMovieDto$Builder.class
+pl\edu\atar\domain\mapper\MovieMapper.class
+pl\edu\atar\domain\dto\CreateMovieDto.class
+pl\edu\atar\domain\dto\MovieDto$Builder.class
+pl\edu\atar\Application.class
+pl\edu\atar\service\MovieService.class
+pl\edu\atar\controller\MovieApiController.class
+pl\edu\atar\domain\mapper\MovieDetailsDtoMapper.class
+pl\edu\atar\domain\dto\MovieDetailsDto.class
+pl\edu\atar\domain\dto\MovieDto.class
